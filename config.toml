@@ -1,0 +1,4 @@
+baseURL = "http://legendofcode.com/"
+languageCode = "en-us"
+title = "Legend of Code"
+theme = "kiss"
