@@ -2,3 +2,19 @@ baseURL = "http://legendofcode.com/"
 languageCode = "en-us"
 title = "Legend of Code"
 theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/thelegendofcode\">Sen Heng</a> 2019"
+enableRobotsTXT = true
+
+[params.social]
+github = "thelegendofcode"
+
+[params.social.config]
+platforms = ["github"]
+
+[params.sections_left]
+"/posts" = "Posts"
+"/til" = "TIL"
+
+[taxonomies]
+category = ["development", "til"]
+tag = "tags"
