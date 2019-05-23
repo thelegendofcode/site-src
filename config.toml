@@ -15,6 +15,3 @@ platforms = ["github"]
 "/posts" = "Posts"
 "/til" = "TIL"
 
-[taxonomies]
-category = ["development", "til"]
-tag = "tags"
