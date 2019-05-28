@@ -7,12 +7,12 @@ There're billions upon billions of very well made themes for Hugo out there, so 
 
 > I DO NOT HAVE THE THE TIME TO WRITE MY OWN THEME!
 
-Said I, at the beginning of this year. You see, this blog was supposed to be launched on 1st of Jan, 2019. Then It was 'delayed' till the 15th of April. Then again till 10th of May.
+Said I, at the beginning of this year. You see, this blog was supposed to be launched on 1st of Jan, 2019. Then It was 'delayed' till the 15th of April. Then again till 10th of May, **surely** I can complete something as simple as a site theme during one of longest stretch of Japanese holidays in modern times?!
 
-But it wasn't.
+But I didn't.
 
-Because I couldn't find a theme I was satisfied with. So I kept tinkering and dwiddling, finding one that was almost right and then trying to customise it to `$MY_UNIQUE_NEEDS`.
+Because I couldn't find a theme I was satisfied with. Therefore I kept twiddling and twaddling, trying to find one that was almost right and then trying to customise it to `$MY_UNIQUE_NEEDS`. You see, my needs are *special*. Everyone may have their own special needs but mine are **different**.
 
-Until eventually, I settled on [KISS](https://github.com/ribice/kiss). It still has a few nigs and nags, it's not 100%, it's probably not even 80%. But It Just Works™.
+Eventually, I settled on [KISS](https://github.com/ribice/kiss). There're still a few things that annoy me and I'm not totally satisfied with it. Not 100%, probably not even 80%. But It Just Works™. Therefore I used it and launched this blog with it two weeks ago.
 
-So I'll going to make my own one anyway.
+So I'm going to make my own one anyway.
