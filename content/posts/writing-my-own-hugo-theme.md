@@ -1,6 +1,9 @@
 ---
 title: "Writing my own Hugo theme"
 date: 2019-05-29T00:18:28+09:00
+tags:
+  - hugo
+  - development
 ---
 
 There're billions upon billions of very well made themes for Hugo out there, so it's a huge waste of my time to even attempt writing my own. Time that can be well spent working on Budgeteer or SnowboardGP or Kutsurogi or Okra or Libraga, and so on. I have **so** many ideas, all of them barely touched upon.
