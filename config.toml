@@ -1,7 +1,7 @@
 baseURL = "http://legendofcode.com/"
 languageCode = "en-us"
 title = "Legend of Code"
-theme = "kiss"
+theme = "fantasy"
 copyright = "&copy; <a href=\"https://github.com/thelegendofcode\">Sen Heng</a> 2019"
 enableRobotsTXT = true
 
