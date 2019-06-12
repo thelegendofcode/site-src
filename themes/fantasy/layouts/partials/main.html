@@ -1,0 +1,20 @@
+{{ range .Pages }}
+  <article>
+    <h1>
+      <a href="{{ .Permalink }}">
+        {{ .Title }}
+      </a>
+    </h1>
+    {{ if .Params.tags }}
+      {{ range .Params.tags }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+    {{ end }}
+    <p>
+      {{ .PublishDate.Format "2006 January 2" }}
+    </p>
+    <p>
+      {{ .Summary }}
+    </p>
+  </article>
+{{ end }}
