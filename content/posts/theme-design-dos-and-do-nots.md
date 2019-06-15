@@ -4,6 +4,7 @@ date: 2019-06-16T02:24:52+09:00
 tags:
   - hugo
   - development
+summary: When gathering requirements, it's often just as helpful to define what are the things you *shouldn't* do as much as the things you should do.
 ---
 
 When gathering requirements, it's often just as helpful to define what are the things you *shouldn't* do as much as the things you should do.
