@@ -1,6 +1,6 @@
 ---
 title: "Theme Design Dos And Do-Nots"
-date: 2019-06-16T02:24:52+09:00
+date: 2019-06-15T02:24:52+09:00
 tags:
   - hugo
   - development
