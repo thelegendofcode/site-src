@@ -2,7 +2,7 @@
 title: "Planned Projects"
 date: 2019-06-16T23:20:12+09:00
 tags: 
-  - development
+  - dev
 summary: 
 ---
 

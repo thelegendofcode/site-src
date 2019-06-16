@@ -3,7 +3,7 @@ title: "Hugo Theme Two"
 date: 2019-06-14T00:51:49+08:00
 tags:
   - hugo
-  - development
+  - dev
 summary: There doesn't seem to be a lot of info out there about creating a theme in Hugo so I've been reading the docs to figure out how the various functions and variables work. So here's a list of things I figured out while on a plane flying eight hours to attend my cousin's wedding.
 ---
 
