@@ -1,0 +1,11 @@
+---
+title: "002 Push Single Commit"
+date: 2019-06-26T16:36:19+09:00
+---
+
+Pushing a single commit out of a series of commits into a remote branch.
+
+```zsh
+# git <REMOTE_NAME> COMMIT_SHA1:REMOTE_BRANCH_NAME
+$ git origin 1q2w3e:branch-name
+```
