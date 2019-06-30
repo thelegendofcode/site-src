@@ -1,6 +1,9 @@
 ---
-title: "002 Push Single Commit"
+title: "Push Single Commit"
 date: 2019-06-26T16:36:19+09:00
+tags:
+  - til
+  - git
 ---
 
 Pushing a single commit out of a series of commits into a remote branch.
