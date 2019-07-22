@@ -9,6 +9,6 @@ tags:
 Pushing a single commit out of a series of commits into a remote branch.
 
 ```zsh
-# git <REMOTE_NAME> COMMIT_SHA1:REMOTE_BRANCH_NAME
-$ git origin 1q2w3e:branch-name
+# git push <REMOTE_NAME> COMMIT_SHA1:REMOTE_BRANCH_NAME
+$ git push origin 1q2w3e:branch-name
 ```
