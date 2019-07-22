@@ -4,6 +4,7 @@ date: 2019-07-22T12:36:19+09:00
 tags:
   - til
   - node
+summary: Launch a nodejs executable from the terminal
 ---
 
 ```zsh

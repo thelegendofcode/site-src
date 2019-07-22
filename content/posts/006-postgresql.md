@@ -3,6 +3,7 @@ title: "PostgreSQL"
 date: 2019-07-21T13:09:06+09:00
 tags:
   - dev
+summary: A quick PostgreSQL refresher.
 ---
 
 I have a habit of doing `brew update` every week. It's a been a while since I've used PostgreSQL, last I remember it was version 9, now it's 11 and I can't connect to it because of some migration issues.

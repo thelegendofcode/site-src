@@ -3,7 +3,7 @@ title: "Planned Projects"
 date: 2019-06-16T23:20:12+09:00
 tags: 
   - dev
-summary: 
+summary: Quick list of projects I'm planning/working on.
 ---
 
 Quick list of projects I'm planning/working on.
