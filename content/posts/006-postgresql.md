@@ -1,7 +1,6 @@
 ---
 title: "PostgreSQL"
 date: 2019-07-21T13:09:06+09:00
-draft: true
 tags:
   - dev
 ---
