@@ -4,12 +4,10 @@ date: 2019-07-26T00:50:14+09:00
 tags:
   - dev
   - hugo
-summary: The Official Hugo docs are a little wanting when it comes to creating a theme from scratch. 
+summary: There seems to be very little info out there about how to actually build a Hugo theme, not even in the official docs. So here's my attempt.
 ---
 
-There seems to be very little info out there about how to actually build a Hugo theme, not even in the official docs. So here's my attempt.
-
-All code can be found at the following repo.
+There seems to be very little info out there about how to actually build a Hugo theme, not even in the official docs. So here's my attempt. All code can be found at the following repo.
 
 https://github.com/thelegendofcode/ThemeOfTheAncients.git
 
