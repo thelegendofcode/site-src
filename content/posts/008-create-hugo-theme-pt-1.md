@@ -94,7 +94,7 @@ Press Ctrl+C to stop
 
 Success! Let's load `http://localhost:1313` in the browser. 
 
-![hello hugo](/static/images/hello-hugo.png)
+![hello hugo](/images/hello-hugo.png)
 
 Congratulations, you have the beginnings of a Hugo Theme.
 
