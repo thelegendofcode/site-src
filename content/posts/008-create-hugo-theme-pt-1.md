@@ -9,7 +9,7 @@ summary: There seems to be very little info out there about how to actually buil
 
 There seems to be very little info out there about how to actually build a Hugo theme, not even in the official docs. So here's my attempt. All code can be found at the following repo.
 
-https://github.com/thelegendofcode/ThemeOfTheAncients.git
+https://github.com/thelegendofcode/themeoftheancients.git
 
 Let's start with the scaffolding. The usual command is `hugo new site $SITE_NAME`, but I've often found myself needing to create one within an already existing directory, so this here is my preferred method.
 
