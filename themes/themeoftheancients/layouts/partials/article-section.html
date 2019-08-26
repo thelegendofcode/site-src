@@ -1,0 +1,16 @@
+<section class="Section">
+  <h2 class="SectionTitle">My Writings</h2>
+  <section class="ArticlesList">
+    {{ range .Paginator.Pages }}  
+    <article class="Article">
+      <h1 class="ArticleHeader">
+        <a href="{{ .Permalink }}" class="ArticleLink">{{ .Title }}</a>
+      </h1>
+      <div class="ArticleInfo">
+        <span class="ArticleDate">{{ .PublishDate.Format "2006 - 01 - 02" }}</span>
+        {{ partial "article-tags" . }}
+      </div>
+    </article>
+    {{ end }}
+  </section>
+</section>

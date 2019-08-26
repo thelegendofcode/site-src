@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<h1 class="ArticleTitle">
+  {{ .Title }}
+</h1>
+
+<p class="ArticleDate">{{ .PublishDate.Format "2006 - 01 - 02" }}</p>
+
+{{ partial "article-tags" . }}
+
+<main class="Article">
+  {{ .Content }}
+</main>
+
+<section class="ArticlePager">
+  <section class="PreviousArticle">
+    {{ if .PrevInSection }}
+      <span class="PagerLabel">Previous</span>
+      <a href="{{ .PrevInSection.Permalink }}" class="ArticleTitle">{{ .PrevInSection.Title }}</a>
+    {{ end }}
+  </section>
+  <section class="PreviousArticle">
+    <a href="/" class="ArticleTitle">Home</a>
+  </section>
+  <section class="PreviousArticle">
+    {{ if .NextInSection }}
+      <span class="PagerLabel">Next</span>
+      <a href="{{ .NextInSection.Permalink }}" class="ArticleTitle">{{ .NextInSection.Title }}</a>
+    {{ end }}
+  </section>
+</section>
+
+<footer class="Footer">
+  <p>copyright</p>
+</footer>
+
+{{ end }}

@@ -1,0 +1,13 @@
+<div class="ArticleTags">
+  {{ with .Params.tags }}
+    {{ $tags := . }}
+    {{ $len := len $tags }}
+
+    {{ range $index, $element := $tags }}
+      <a href="{{ "tags" | absURL }}{{ . | urlize }}"><span class="ArticleTag">{{ . }}</span></a> 
+      {{ if ne (add $index 1) $len }}
+        |
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>

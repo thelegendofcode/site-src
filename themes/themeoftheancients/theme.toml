@@ -1,0 +1,13 @@
+name = "Theme of the Ancients"
+license = "MIT"
+licenselink = "https://github.com/thelegendofcode/themeoftheancients/blob/master/LICENSE.md"
+description = "🧚‍♀️🗿 Theme of the Ancients is a Hugo theme for the Legend of Code website"
+homepage = "https://legendofcode.com/themeoftheancients/"
+tags = []
+features = []
+min_version = 0.19
+
+[author]
+  name = "Sen Heng"
+  homepage = "https://legendofcode.com/"
+  
