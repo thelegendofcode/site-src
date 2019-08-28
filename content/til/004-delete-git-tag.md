@@ -2,7 +2,7 @@
 title: "How to delete a git tag"
 date: 2019-08-28T00:09:00+09:00
 tags:
-  - dev
+  - til
   - git
 ---
 

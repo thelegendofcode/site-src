@@ -134,4 +134,4 @@ It wouldn't do anything, because footer is not a template.
 
 `Partials` are basically the splitting up of a template into multiple parts, especially parts that can be reused. Like say, a `footer.html` or a `nav.html`. You can then re-use these `Partials` in the other templates.
 
-Part 3 will deal will generating single pages from data.
+[Part 3](https://legendofcode.com/create-hugo-theme-pt-3-page-variables/) will deal will generating single pages from data.
