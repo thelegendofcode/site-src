@@ -4,7 +4,9 @@
     {{ $len := len $tags }}
 
     {{ range $index, $element := $tags }}
-      <a href="{{ "tags" | absURL }}{{ . | urlize }}"><span class="ArticleTag">{{ . }}</span></a> 
+      <a href="{{ absURL "tags/" }}{{ . | urlize }}">
+        <span class="ArticleTag">{{ . }}</span>
+      </a> 
       {{ if ne (add $index 1) $len }}
         |
       {{ end }}
