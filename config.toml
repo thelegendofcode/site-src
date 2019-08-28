@@ -6,15 +6,5 @@ copyright = "&copy; <a href=\"https://github.com/thelegendofcode\">Sen Heng</a> 
 enableRobotsTXT = true
 
 [permalinks]
-posts = "/:title/"
-
-[params.social]
-github = "thelegendofcode"
-
-[params.social.config]
-platforms = ["github"]
-
-[params.sections_left]
-"/posts" = "Posts"
-"/til" = "TIL"
-
+posts = "posts/:title/"
+til = "til/:title/"
