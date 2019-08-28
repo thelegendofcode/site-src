@@ -5,6 +5,9 @@ theme = "themeoftheancients"
 copyright = "&copy; <a href=\"https://github.com/thelegendofcode\">Sen Heng</a> 2019"
 enableRobotsTXT = true
 
+[permalinks]
+posts = "/:title/"
+
 [params.social]
 github = "thelegendofcode"
 
