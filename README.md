@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/thelegendofcode/site-src/tree/master.svg?style=svg&circle-token=02823062e01f16c16faa55da3ff83b07b9d027ba)](https://circleci.com/gh/thelegendofcode/site-src/tree/master)
+
 # site-src
 Source for LoC website
 
