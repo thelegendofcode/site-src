@@ -1,6 +1,5 @@
-[![CircleCI](https://circleci.com/gh/thelegendofcode/site-src/tree/master.svg?style=svg&circle-token=02823062e01f16c16faa55da3ff83b07b9d027ba)](https://circleci.com/gh/thelegendofcode/site-src/tree/master)
-
 # site-src
+
 Source for LoC website
 
 ## How to publish
@@ -25,6 +24,7 @@ These are the current categories available
   - could've simply been just a Post with a TIL tag but wanted to make it separate because of below planned categories
 
 Planned but not yet implemented categories
+
 - Quotes
   - just a quote
   - could be a simple block of text, could be a twitter link, not really sure yet
